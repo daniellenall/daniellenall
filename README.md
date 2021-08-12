@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm a developer who mainly works with Python and React.
-- Currently open to freelance or remote work 
+- Currently open to freelance or remote work after November 2021
 
 <!--
 **daniellenall/daniellenall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
